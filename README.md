@@ -5,3 +5,5 @@ Project from the free code camp front end certification course. You can mess wit
 
 The purpose of the project was to get some practice in HTML and CSS.
 
+
+![alt text](plp.png)
